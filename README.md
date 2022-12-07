@@ -1,2 +1,2 @@
 # 4105LabRepo
-Repo for Lab 8
+Github is a very useful tool to keep track of my code changes and collaborate with other users!
